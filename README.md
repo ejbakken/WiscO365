@@ -1,0 +1,2 @@
+# WiscO365
+This module provides a turnkey solution for University of Wisconsin-Madison domain administrators to manage their domain's Office 365 accounts. It integrates the Domain Admin API, converting all available methods to PowerShell functions for simple execution from the console or in scripts. Functions can be added, removed, and updated as the API is modified. Additionally, this module provides the ability to easily add and save API connection parameters for later use.
